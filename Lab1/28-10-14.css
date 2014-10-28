@@ -1,0 +1,40 @@
+#potato{ 
+	color: red;
+	font-family: “Times New Roman”, “Arial”;
+	font-size: 30px;
+	text-align: center;
+	text-decoration: underline; 
+	font-weight: bold; 
+
+
+}
+#potato2{
+	color: red;
+	font-family: “Times New Roman”, “Arial”;
+	font-size: 15px;
+	text-align: left;
+	font-weight: bold;
+
+}
+
+#potato3{ 
+	color: red;
+	font-family: “Times New Roman”, “Arial”;
+	font-size: 30px;
+	text-align: left;
+	text-decoration: underline; 
+	font-weight: bold; 
+
+
+}
+#potato4 {
+	height: 300px;
+}
+
+body { background-color: white;
+background-image: url(IMG_20141004_115900.jpg);
+}
+
+#potato5 {
+	color :white;
+}
